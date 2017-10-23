@@ -1,6 +1,6 @@
 
-# Deep Convolutional Neural Networks Project
-## Dog Breed Classifier
+# Supervised Machine Learning Project
+## Finding Donors for CharityML
 
 
 
